@@ -1,0 +1,11 @@
+# IDE's project files
+.idea/
+
+# Environments
+.env
+
+# Mac/OSX
+.DS_Store
+
+# windows thumbnail cache
+Thumbs.db
